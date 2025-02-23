@@ -1,0 +1,5 @@
+python-sat
+pandas
+Jinja2
+matplotlib
+ipython

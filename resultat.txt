@@ -1,0 +1,2 @@
+c solving reunion.cnf
+s UNSATISFIABLE
